@@ -1,5 +1,11 @@
-h1,h2,h3,h4 {
+@import url(http://fonts.googleapis.com/css?family=Lobster);
+h1 {
+        font-family: Lobster, cursive;
         color: DeepSkyBlue;
+}
+p {
+        color: Purple;
+        font-weight: bold;
 }
 .btn {
   background: #3498db;
