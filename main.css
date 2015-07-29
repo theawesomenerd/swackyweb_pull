@@ -1,4 +1,11 @@
 @import url(http://fonts.googleapis.com/css?family=Lobster);
+body {
+        padding: 10px;
+        background-color: #CC9966;
+        color: #663322;
+        text-align: center;
+        font-size: 110%;
+}
 h1 {
         font-family: Lobster, cursive;
         color: DeepSkyBlue;
