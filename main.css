@@ -40,3 +40,18 @@ p {
   background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
   text-decoration: none;
 }
+
+.btn:active {
+  background: #2C70ca;
+  background-image: -webkit-linear-gradient(top, #2C70ca, #3498db);
+  background-image: -moz-linear-gradient(top, #2C70ca, #3498db);
+  background-image: -ms-linear-gradient(top, #2C70ca, #3498db);
+  background-image: -o-linear-gradient(top, #2C70ca, #3498db);
+  background-image: linear-gradient(to bottom, #2C70ca, #3498db);
+  text-decoration: none;
+}
+
+a {
+        text-decoration: none;
+        color: #33CC66;
+}
